@@ -1,8 +1,6 @@
 [![Header](https://github.com/trustq/trustq/blob/main/assets/headerlogo.jpg)](https://github.com/trustq)
-## I'm s beginner QA Engineer. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+## I'm a beginner QA Engineer.  
+
 
 ### Language and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=flat-square&logo=postman&Color=FF6600)
