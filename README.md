@@ -1,4 +1,4 @@
-[![Header](https://github.com/trustq/trustq/blob/main/assets/headerlogo.jpg](https://github.com/trustq)
+[![Header](https://github.com/trustq/trustq/blob/main/assets/headerlogo.jpg)](https://github.com/trustq)
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
