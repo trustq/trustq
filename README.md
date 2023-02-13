@@ -5,6 +5,7 @@
 ### Language and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=flat-square&logo=postman&Color=FF6600)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=flat-square&logo=jira&Color=47C5FB)
+![AzureDevOps](https://img.shields.io/badge/-Azuredevops-090909?style=flat-square&logo=Azuredevops&Color=#008080)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=flat-square&logo=mysql&Color=#008080)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&Color=E9D54D)
 
