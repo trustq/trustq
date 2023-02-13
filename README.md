@@ -10,7 +10,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
+- [Checklists](https://github.com/trustq/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
