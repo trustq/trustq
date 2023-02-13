@@ -11,10 +11,10 @@
 
 ### Testing Documentation
 
-<!-- - [Checklists and Test-Cases](https://github.com/trustq/trustq/tree/main/assets/Checklists)
+- [Checklists and Test-Cases](https://github.com/trustq/trustq/tree/main/assets/Checklists)
 - [Bug-Reports](https://github.com/trustq/trustq/tree/main/assets/Bug-reports)
 - [SQL Queries](https://github.com/trustq/trustq/tree/main/assets/Sql)
-- [Postman Collections](https://github.com/artichokeee/postman) -->
+- [Postman Collections](https://github.com/trustq/trustq/tree/main/assets/Postman%20collections)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/trustq)
