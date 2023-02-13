@@ -11,10 +11,9 @@
 
 ### Testing Documentation
 
-<!-- - [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+<!-- - [Checklists and Test-Cases](https://github.com/trustq/trustq/tree/main/assets/Checklists)
+- [Bug-Reports](https://github.com/trustq/trustq/tree/main/assets/Bug-reports)
+- [SQL Queries](https://github.com/trustq/trustq/tree/main/assets/Sql)
 - [Postman Collections](https://github.com/artichokeee/postman) -->
 
 ### Follow Me
