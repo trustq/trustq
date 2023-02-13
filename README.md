@@ -1,5 +1,5 @@
 [![Header](https://github.com/trustq/trustq/blob/main/assets/headerlogo.jpg)](https://github.com/trustq)
-## I'm a QA Engineer and Tutor. 
+## I'm s beginner QA Engineer. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
